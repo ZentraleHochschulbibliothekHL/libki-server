@@ -183,8 +183,8 @@ __PACKAGE__->might_have(
 );
 
 
-# Created by DBIx::Class::Schema::Loader v0.07049 @ 2019-11-04 09:06:02
-# DO NOT MODIFY THIS OR ANYTHING ABOVE! md5sum:+Cu+O4th0iM/LmOotto/Zw
+# Created by DBIx::Class::Schema::Loader v0.07049 @ 2020-01-06 13:33:37
+# DO NOT MODIFY THIS OR ANYTHING ABOVE! md5sum:BfJl4EOUfk+ZDtmhfC07TQ
 
 =head2 can_user_use
 
